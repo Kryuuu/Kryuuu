@@ -1,8 +1,12 @@
 <div align="center">
 
-# Hi 👋, I'm Kian
+<p style="font-size: 32px;">
+  <b>Hi 👋, I'm Kian</b>
+</p>
 
-# Web Developer & Video Editor from Indonesia 🇮🇩
+<p>
+  <b>Web Developer & Video Editor from Indonesia 🇮🇩</b>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=Kryuuu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
