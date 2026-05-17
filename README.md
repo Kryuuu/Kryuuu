@@ -1,13 +1,22 @@
-<h1 align="center">Hi 👋, I'm Nvy</h1>
-<h3 align="center">Web Developer & Video Editor from Indonesia 🇮🇩</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kryuuu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+# Hi 👋, I'm Kian
+
+### Web Developer & Video Editor from Indonesia 🇮🇩
+
+<img src="https://komarev.com/ghpvc/?username=Kryuuu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+<br>
+
+<div align="center">
+  <b>🚀 About Me</b>
+</div>
+
+<br>
 
 Saya adalah seorang **Web Developer** dan **Video Editor** yang suka membuat website modern, responsif, dan mudah digunakan.
 
@@ -16,7 +25,13 @@ Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphi
 
 ---
 
-## 💻 Web Development Skills
+<br>
+
+<div align="center">
+  <b>💻 Web Development Skills</b>
+</div>
+
+<br>
 
 - 🌐 HTML, CSS, JavaScript
 - ⚙️ PHP & MySQL
@@ -28,7 +43,13 @@ Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphi
 
 ---
 
-## 🎬 Video Editing Skills
+<br>
+
+<div align="center">
+  <b>🎬 Video Editing Skills</b>
+</div>
+
+<br>
 
 - 🎞️ Adobe After Effects
 - 🎥 Adobe Premiere Pro
@@ -40,7 +61,13 @@ Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphi
 
 ---
 
-## 🛠️ Tools & Technologies
+<br>
+
+<div align="center">
+  <b>🛠️ Tools & Technologies</b>
+</div>
+
+<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,github,git,vscode,figma,ae,pr" alt="Tools and Technologies" />
@@ -48,7 +75,13 @@ Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphi
 
 ---
 
-## 📌 What I Do
+<br>
+
+<div align="center">
+  <b>📌 What I Do</b>
+</div>
+
+<br>
 
 - Membuat website company profile
 - Membuat landing page
@@ -61,7 +94,13 @@ Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphi
 
 ---
 
-## 📊 GitHub Stats
+<br>
+
+<div align="center">
+  <b>📊 GitHub Stats</b>
+</div>
+
+<br>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kryuuu&theme=tokyonight" alt="GitHub Profile Summary" />
@@ -79,7 +118,13 @@ Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphi
 
 ---
 
-## 🌐 Connect With Me
+<br>
+
+<div align="center">
+  <b>🌐 Connect With Me</b>
+</div>
+
+<br>
 
 <p align="center">
   <a href="https://nvy.my.id" target="_blank">
@@ -101,9 +146,19 @@ Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphi
 
 ---
 
-## ✨ Quote
+<br>
 
-> “Code builds the system, creativity makes it alive.”
+<div align="center">
+  <b>✨ Quote</b>
+</div>
+
+<br>
+
+<div align="center">
+
+“Code builds the system, creativity makes it alive.”
+
+</div>
 
 ---
 
