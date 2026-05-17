@@ -43,7 +43,7 @@ Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphi
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,github,git,vscode,figma,ae,pr" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,github,git,vscode,figma,ae,pr" alt="Tools and Technologies" />
 </p>
 
 ---
@@ -64,15 +64,17 @@ Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kryuuu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kryuuu&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kryuuu&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kryuuu&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kryuuu&theme=tokyonight&utcOffset=8" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kryuuu&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kryuuu&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kryuuu&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 ---
@@ -81,19 +83,19 @@ Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphi
 
 <p align="center">
   <a href="https://nvy.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Website-nvy.my.id-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-nvy.my.id-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="mailto:ahmadshaw257@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ahmadshaw257@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-ahmadshaw257@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Kryuuu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Kryuuu-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Kryuuu-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://instagram.com/nvy.ly_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-nvy.ly_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-nvy.ly_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://tiktok.com/@envy.ly_" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-envy.ly_-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+    <img src="https://img.shields.io/badge/TikTok-envy.ly_-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 </p>
 
