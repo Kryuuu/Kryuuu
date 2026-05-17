@@ -1,7 +1,7 @@
 <div align="center">
 
 <p style="font-size: 32px;">
-  <b>Hi 👋, I'm Kian</b>
+  <b>Hi 👋, I'm Nvy</b>
 </p>
 
 <p>
