@@ -27,6 +27,12 @@ Saya adalah seorang **Web Developer** dan **Video Editor** yang suka membuat web
 Di dunia web development, saya tertarik membangun website, dashboard admin, landing page, dan sistem informasi berbasis web.  
 Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphics**, **visual effects**, dan konten kreatif menggunakan **Adobe After Effects**, **Premiere Pro**, dan tools editing lainnya.
 
+<br>
+
+<p align="center">
+  <img src="./IMG_7622.gif" alt="Anime GIF" width="420" />
+</p>
+
 ---
 
 <br>
