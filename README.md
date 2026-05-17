@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Kian
 
-### Web Developer & Video Editor from Indonesia 🇮🇩
+# Web Developer & Video Editor from Indonesia 🇮🇩
 
 <img src="https://komarev.com/ghpvc/?username=Kryuuu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
