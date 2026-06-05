@@ -1,8 +1,8 @@
 <p align="right">
   <img
-    src="https://readmeme.eu.cc/api/time.svg?theme=ocean&timezone=Asia/Makassar&timeFormat=24h&showSeconds=0&showDate=1&showDay=1&label=Current+Time+%E2%80%A2+WITA&radius=12"
-    alt="Current Time in WITA"
-    width="320"
+    src="https://readmeme.eu.cc/api/time.svg?theme=ink&timezone=Asia/Makassar&timeFormat=24h&showSeconds=0&showDate=1&showDay=1&label=%E2%97%8F%20WITA&radius=18"
+    alt="WITA Clock"
+    width="300"
   />
 </p>
 
