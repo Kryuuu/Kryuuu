@@ -1,6 +1,6 @@
 <div align="center">
 
-<p style="font-size: 32px;">
+<p>
   <b>Hi 👋, I'm Nvy</b>
 </p>
 
@@ -159,14 +159,16 @@ Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphi
 <br>
 
 <div align="center">
-  <b>✨ Quote</b>
+  <b>✨ Quote of The Day</b>
 </div>
 
 <br>
 
 <div align="center">
 
+<!-- QUOTE_START -->
 “Code builds the system, creativity makes it alive.”
+<!-- QUOTE_END -->
 
 </div>
 
