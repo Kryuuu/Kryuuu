@@ -1,0 +1,91 @@
+name: Update Daily Quote
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+      timezone: "Asia/Makassar"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update quote in README
+        run: |
+          python <<'PY'
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+          import re
+
+          quotes = [
+              "“Code builds the system, creativity makes it alive.”",
+              "“Build quietly. Let your work speak loudly.”",
+              "“Creativity turns ideas into experiences.”",
+              "“Small progress is still progress.”",
+              "“Design with purpose, code with passion.”",
+              "“Every great project starts with a simple idea.”",
+              "“Keep learning, keep creating, keep improving.”",
+              "“Good code solves problems. Great design makes it memorable.”",
+              "“Consistency beats motivation when motivation fades.”",
+              "“Create something today that your future self will be proud of.”",
+              "“Stay curious. Keep building.”",
+              "“The best way to learn is to build.”",
+              "“Ideas become valuable when you bring them to life.”",
+              "“Make it work, make it better, make it yours.”",
+              "“Your future is created by what you build today.”",
+              "“Turn imagination into something people can experience.”",
+              "“Great things are built one commit at a time.”",
+              "“Focus on progress, not perfection.”",
+              "“Keep creating until your ideas become reality.”",
+              "“Learn continuously. Build fearlessly.”"
+          ]
+
+          now = datetime.now(ZoneInfo("Asia/Makassar"))
+          quote = quotes[now.toordinal() % len(quotes)]
+
+          with open("README.md", "r", encoding="utf-8") as file:
+              readme = file.read()
+
+          pattern = r"(<!-- QUOTE_START -->\s*).*?(\s*<!-- QUOTE_END -->)"
+          replacement = rf"\1{quote}\2"
+
+          updated_readme, count = re.subn(
+              pattern,
+              replacement,
+              readme,
+              count=1,
+              flags=re.DOTALL
+          )
+
+          if count == 0:
+              raise RuntimeError(
+                  "Penanda QUOTE_START dan QUOTE_END tidak ditemukan di README.md"
+              )
+
+          with open("README.md", "w", encoding="utf-8") as file:
+              file.write(updated_readme)
+
+          print(f"Quote diperbarui untuk {now.date()}: {quote}")
+          PY
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet README.md; then
+            echo "Tidak ada perubahan quote hari ini."
+            exit 0
+          fi
+
+          git add README.md
+          git commit -m "chore: update daily quote"
+          git push
