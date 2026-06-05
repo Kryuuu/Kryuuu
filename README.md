@@ -1,6 +1,6 @@
 <p align="right">
   <img
-    src="https://readmeme.eu.cc/api/time.svg?theme=classic&timezone=Asia/Makassar&timeFormat=24h&showSeconds=0&showDate=1&showDay=1&label=DIGITAL%20CLOCK%20%E2%80%A2%20WITA&radius=20"
+    src="https://readmeme.eu.cc/api/time.svg?theme=classic&timezone=Asia/Banjarmasin&timeFormat=24h&showSeconds=0&showDate=1&showDay=1&label=DIGITAL%20CLOCK%20%E2%80%A2%20WITA&radius=20"
     alt="Digital Clock WITA"
     width="320"
   />
