@@ -219,7 +219,7 @@ Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphi
 <div align="center">
 
 <!-- QUOTE_START -->
-“Your future is created by what you build today.”
+“Great things are built one commit at a time.”
 <!-- QUOTE_END -->
 
 </div>
