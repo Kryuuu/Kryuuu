@@ -219,7 +219,7 @@ Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphi
 <div align="center">
 
 <!-- QUOTE_START -->
-“Every great project starts with a simple idea.”
+“Keep learning, keep creating, keep improving.”
 <!-- QUOTE_END -->
 
 </div>
