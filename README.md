@@ -219,7 +219,7 @@ Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphi
 <div align="center">
 
 <!-- QUOTE_START -->
-“Keep creating until your ideas become reality.”
+“Learn continuously. Build fearlessly.”
 <!-- QUOTE_END -->
 
 </div>
