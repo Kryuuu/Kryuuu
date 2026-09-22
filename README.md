@@ -219,7 +219,7 @@ Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphi
 <div align="center">
 
 <!-- QUOTE_START -->
-“Build quietly. Let your work speak loudly.”
+“Creativity turns ideas into experiences.”
 <!-- QUOTE_END -->
 
 </div>
