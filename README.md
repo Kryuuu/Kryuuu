@@ -219,7 +219,7 @@ Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphi
 <div align="center">
 
 <!-- QUOTE_START -->
-“Creativity turns ideas into experiences.”
+“Small progress is still progress.”
 <!-- QUOTE_END -->
 
 </div>
