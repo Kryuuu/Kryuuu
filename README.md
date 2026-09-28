@@ -219,7 +219,7 @@ Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphi
 <div align="center">
 
 <!-- QUOTE_START -->
-“Good code solves problems. Great design makes it memorable.”
+“Consistency beats motivation when motivation fades.”
 <!-- QUOTE_END -->
 
 </div>
