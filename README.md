@@ -219,7 +219,7 @@ Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphi
 <div align="center">
 
 <!-- QUOTE_START -->
-“Create something today that your future self will be proud of.”
+“Stay curious. Keep building.”
 <!-- QUOTE_END -->
 
 </div>
