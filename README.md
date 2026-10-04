@@ -219,7 +219,7 @@ Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphi
 <div align="center">
 
 <!-- QUOTE_START -->
-“Make it work, make it better, make it yours.”
+“Your future is created by what you build today.”
 <!-- QUOTE_END -->
 
 </div>
