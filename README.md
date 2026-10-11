@@ -219,7 +219,7 @@ Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphi
 <div align="center">
 
 <!-- QUOTE_START -->
-“Code builds the system, creativity makes it alive.”
+“Build quietly. Let your work speak loudly.”
 <!-- QUOTE_END -->
 
 </div>
