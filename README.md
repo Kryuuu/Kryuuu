@@ -219,7 +219,7 @@ Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphi
 <div align="center">
 
 <!-- QUOTE_START -->
-“Small progress is still progress.”
+“Design with purpose, code with passion.”
 <!-- QUOTE_END -->
 
 </div>
