@@ -219,7 +219,7 @@ Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphi
 <div align="center">
 
 <!-- QUOTE_START -->
-“Keep learning, keep creating, keep improving.”
+“Good code solves problems. Great design makes it memorable.”
 <!-- QUOTE_END -->
 
 </div>
