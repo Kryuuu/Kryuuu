@@ -219,7 +219,7 @@ Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphi
 <div align="center">
 
 <!-- QUOTE_START -->
-“Great things are built one commit at a time.”
+“Focus on progress, not perfection.”
 <!-- QUOTE_END -->
 
 </div>
