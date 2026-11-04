@@ -219,7 +219,7 @@ Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphi
 <div align="center">
 
 <!-- QUOTE_START -->
-“Design with purpose, code with passion.”
+“Every great project starts with a simple idea.”
 <!-- QUOTE_END -->
 
 </div>
