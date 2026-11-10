@@ -219,7 +219,7 @@ Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphi
 <div align="center">
 
 <!-- QUOTE_START -->
-“Stay curious. Keep building.”
+“The best way to learn is to build.”
 <!-- QUOTE_END -->
 
 </div>
