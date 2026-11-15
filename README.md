@@ -219,7 +219,7 @@ Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphi
 <div align="center">
 
 <!-- QUOTE_START -->
-“Turn imagination into something people can experience.”
+“Great things are built one commit at a time.”
 <!-- QUOTE_END -->
 
 </div>
