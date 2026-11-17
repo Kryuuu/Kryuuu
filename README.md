@@ -219,7 +219,7 @@ Selain coding, saya juga aktif dalam dunia editing video seperti **motion graphi
 <div align="center">
 
 <!-- QUOTE_START -->
-“Focus on progress, not perfection.”
+“Keep creating until your ideas become reality.”
 <!-- QUOTE_END -->
 
 </div>
